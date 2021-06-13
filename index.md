@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+谢俊超
 
-You can use the [editor on GitHub](https://github.com/xiejunchao1999/xiejunchao1999/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+个人信息
+性 别：男             年 龄：23
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+专 业：cs       岗 位：研发工程师
+工作及教育经历
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+专业技能
+熟练使用 C++，掌握Go，了解 Java、Python、PHP 等编程语言
+掌握基础数据结构和算法的基本原理
+等等
+项目经历
+具体功能
+运用了那些技术，技术难点是
+效果如何
+demo演示地址，github地址
+获奖经历
+XXX 优秀新人
+XXX 学生社团优秀干部
+竞赛 XXX 奖
+个人账号
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xiejunchao1999/xiejunchao1999/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+github 地址
+其他信息
+喜欢钻研技术 等等
+性格开朗 等等
